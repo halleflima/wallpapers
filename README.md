@@ -1,3 +1,3 @@
-## WALLPAPERS
+# WALLPAPERS
 
-# Studio Ghibli wallpapers
+### Studio Ghibli wallpapers
